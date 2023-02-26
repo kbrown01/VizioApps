@@ -1420,5 +1420,65 @@
         }
       ]
     }
+  },
+  {
+    "id": "156",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"194\", \"MESSAGE\": \"https://html5.labocinalatina.tv/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "157",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"176\", \"MESSAGE\": \"https://smarttv-static.prod.magine.com/app/passionflix/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "158",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"148\", \"MESSAGE\": \"https://d2yrdm0p0sl8v4.cloudfront.net/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "159",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"123\", \"MESSAGE\": \"https://iptv.fawesome.tv/?iptv=true&siteId=1194&platform_id=1217562 \" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "160",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"175\", \"MESSAGE\": \"https://html5.babyeinstein.tv/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
   }
 ]
