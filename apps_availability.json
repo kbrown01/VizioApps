@@ -1480,5 +1480,125 @@
         }
       ]
     }
+  },
+  {
+    "id": "161",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"186\", \"MESSAGE\": \"https://html5.familytime.tv/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "162",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"209\", \"MESSAGE\": \"https://service.play.works/video_portals/html5_hub/index.html?config=..%2Fdantdm%2Fconfig.json&platform=vizio&render=canvas\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "163",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"210\", \"MESSAGE\": \"https://service.play.works/video_portals/html5_hub/index.html?config=..%2Frunthefutmarket%2Fconfig.json&platform=vizio&render=canvas\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "164",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"208\", \"MESSAGE\": \"https://service.play.works/video_portals/html5_hub/index.html?config=..%2Fbest_of_roblox%2Fconfig.json&platform=vizio&render=canvas\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "165",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"149\", \"MESSAGE\": \"https://thefirsttv.maz.tv\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "166",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"146\", \"MESSAGE\": \"https://usweeklytv.maz.tv\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "167",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"185\", \"MESSAGE\": \"https://www.worldpokertour.tv/tv/vizio\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "168",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"129\", \"MESSAGE\": \"https://otter-vizio-ga-prod.pbs.org/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "169",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"142\", \"MESSAGE\": \"https://html5-vizio.amcsvod.io/prod/sh/index.html\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "170",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"155\", \"MESSAGE\": \"https://blueprint.matchpoint.tv/screambox/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
   }
 ]
