@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "33",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"4\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ],
+      "MT5691": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 3, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ],
+      "MT5695": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 3, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"37\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "56",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"42\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"5\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"12\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "47",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"24\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "49",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"36\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 0, \"APP_ID\": \"898AF734\", \"MESSAGE\": \"{\\\"CAST_NAMESPACE\\\":\\\"urn:x-cast:com.google.cast.media\\\",\\\"CAST_MESSAGE\\\":{\\\"type\\\":\\\"LOAD\\\",\\\"media\\\":{},\\\"autoplay\\\":true,\\\"currentTime\\\":0,\\\"customData\\\":{\\\"platform\\\":\\\"sctv\\\"}}}\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"6\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"10\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 3, \"APP_ID\": \"1\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"9\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ],
+      "MT5580": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"9\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": "0.0.0.0"
+        }
+      ],
+      "MT5581P": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"9\", \"MESSAGE\": null }",
+          "firmwareMinimum": "3.11.13",
+          "firmwareMaximum": null
+        }
+      ],
+      "MT5597": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"9\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ],
+      "BG4": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"9\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": "0.0.0.0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 0, \"APP_ID\": \"E6F74C01\", \"MESSAGE\": \"{\\\"CAST_NAMESPACE\\\":\\\"urn:x-cast:tv.pluto\\\",\\\"CAST_MESSAGE\\\":{\\\"command\\\":\\\"initializePlayback\\\",\\\"channel\\\":\\\"\\\",\\\"episode\\\":\\\"\\\",\\\"time\\\":0}}\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "55",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"41\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "46",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"21\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"31\", \"MESSAGE\": \"https://my.vudu.com/castReceiver/index.html?launch-source=app-icon\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 0, \"APP_ID\": \"36E1EA1F\", \"MESSAGE\": \"{\\\"CAST_NAMESPACE\\\":\\\"urn:x-cast:com.google.cast.media\\\",\\\"CAST_MESSAGE\\\":{\\\"type\\\":\\\"LOAD\\\",\\\"media\\\":{},\\\"autoplay\\\":true,\\\"currentTime\\\":0,\\\"customData\\\":{}}}\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ],
+      "MT5580": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": "0.0.0.0",
+          "firmwareMaximum": "0.0.0.0"
+        }
+      ],
+      "MT5581P": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ],
+      "MT5597": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ],
+      "BG4": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": "0.0.0.0",
+          "firmwareMaximum": "0.0.0.0"
+        }
+      ],
+      "SX7": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": "0.0.0.0",
+          "firmwareMaximum": null
+        }
+      ],
+      "SX7B": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"3\", \"MESSAGE\": null }",
+          "firmwareMinimum": "1.0.8.3",
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"1\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ],
+      "MT5580": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"1\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": "0.0.0.0"
+        }
+      ],
+      "MT5581P": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"1\", \"MESSAGE\": null }",
+          "firmwareMinimum": "3.12.02",
+          "firmwareMaximum": null
+        }
+      ],
+      "MT5597": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"1\", \"MESSAGE\": null }",
+          "firmwareMinimum": "1.2.2",
+          "firmwareMaximum": null
+        }
+      ],
+      "BG4": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"1\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": "0.0.0.0"
+        }
+      ],
+      "SX7": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"1\", \"MESSAGE\": null }",
+          "firmwareMinimum": "4.0.23.2",
+          "firmwareMaximum": null
+        }
+      ],
+      "SX7B": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 5, \"APP_ID\": \"1\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "57",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"34\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"15\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "63",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"55\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"18\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"16\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "64",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"57\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "48",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"22\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "50",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"27\", \"MESSAGE\": \"https://html5.asiancrush.com/?ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "70",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"58\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "71",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"66\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "73",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"68\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "74",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"67\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "75",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"63\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "76",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"75\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "77",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"70\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "78",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"72\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "79",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"77\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "80",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"29\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "81",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"80\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "82",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"81\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "83",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"82\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "84",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"69\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "85",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"79\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "86",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"38\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "87",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"78\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "88",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"88\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "89",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"89\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "90",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"61\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "91",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 3, \"APP_ID\": \"4\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "92",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"92\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "93",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"71\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "94",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"102\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "96",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"100\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "97",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"74\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "100",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"95\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "101",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"104\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "102",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"105\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "103",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"85\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "104",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"87\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "105",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"107\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "106",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"83\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "107",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"91\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "109",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"112\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "110",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"109\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "111",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"110\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "112",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"117\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "113",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"119\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "115",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"93\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "116",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 2, \"APP_ID\": \"114\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "117",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"128\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "118",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"151\", \"MESSAGE\":  \"https://webtv.starz.com\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "119",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"115\", \"MESSAGE\":  \"https://db8803zblvohz.cloud\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "120",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"150\", \"MESSAGE\":  \"https://webapp.movetv.com/vizio/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "121",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"184\", \"MESSAGE\":  \"https://tv.tiktok.com/app\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "122",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"121\", \"MESSAGE\":  \"https://vizio.bet.com\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "123",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"218\", \"MESSAGE\":  \"https://amcn-smart-tv-app.cds.amcn.com/amcn/vizio/amcplus/v1/index.html\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "124",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"212\", \"MESSAGE\":  \"https://vizio.mountain.siriusxm.com\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "125",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"156\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "126",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"60\", \"MESSAGE\": \"https://dn6q4f0q0kh23.cloudfront.net/receiver/viziosmartcast/haystackreceiver.html?platform=sctv\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "127",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"203\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "128",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"228\", \"MESSAGE\": \"http://christmas-prod.ottstudio.plus/vizio-christmas\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "129",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"168\", \"MESSAGE\": \"https://prod-connected-devices.crackle.com/css-vizio/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "130",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"111\", \"MESSAGE\": \"http://ctv-webapp.foxdcg.com/foxsports/vizio/prod/index.html\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "131",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"197\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "132",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"196\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "133",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"200\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "134",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"198\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "135",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"219\", \"MESSAGE\": \"https://journy.maz.tv\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "136",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"223\", \"MESSAGE\": \"https://c1-viziotv.tve.prod.cd-tv.mercury.dnitv.com/home?product=food&sonicBase=prod&deviceType=viziotv\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "137",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"226\", \"MESSAGE\": \"https://c1-viziotv.tve.prod.cd-tv.mercury.dnitv.com/home?product=tlc&sonicBase=prod&deviceType=viziotv\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "138",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"239\", \"MESSAGE\": null }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "139",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"224\", \"MESSAGE\": \"https://c1-viziotv.tve.prod.cd-tv.mercury.dnitv.com/home?product=hgtv&sonicBase=prod&deviceType=viziotv\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "140",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"222\", \"MESSAGE\": \"https://c1-viziotv.tve.prod.cd-tv.mercury.dnitv.com/home?product=dsc&sonicBase=prod&deviceType=viziotv\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  }
+]
