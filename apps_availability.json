@@ -1324,5 +1324,101 @@
         }
       ]
     }
+  },
+  {
+    "id": "148",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"162\", \"MESSAGE\": \"https://ctv.aecrimecentral.com/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "149",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"160\", \"MESSAGE\": \"https://ctv.historyvault.com/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "150",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"178\", \"MESSAGE\": \"https://www.distro.tv/vizio.html\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "151",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"163\", \"MESSAGE\": \"https://outsidetv.maz.tv/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "152",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"192\", \"MESSAGE\": \"https://myoutdoortv-smarttv-vizio.viewlift.com/MyOutdoorTV.html\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "153",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"230\", \"MESSAGE\": \"https://urbntv.maz.tv\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "154",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"179\", \"MESSAGE\": \"https://html5.nosey.com/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "155",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"165\", \"MESSAGE\": \"https://d2hp4r1jl448v2.cloudfront.net/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
   }
 ]

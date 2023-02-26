@@ -1317,5 +1317,109 @@
       "description": "Kevin Added",
       "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
     }
+  },
+  {
+    "id": "148",
+    "name": "AE Crime Central",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 148,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "149",
+    "name": "History Vault",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 149,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "150",
+    "name": "DistroTV",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 150,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "151",
+    "name": "Outside+",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 151,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "152",
+    "name": "MOTV",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 152,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "153",
+    "name": "UrbnTV",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 153,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "154",
+    "name": "Nosey",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 154,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "155",
+    "name": "Estrella TV",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 155,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
   }
 ]
