@@ -161,4 +161,10 @@ The current set (154 APPs) for a modern Vizio TV. IF you find things that should
   "iHeartRadio"
 ]
 ```
+Notes:
+
+
+1. The decriptions for many are just canned information, I did not take the time to add any. Feel free to do so and update.
+2. If someone knows a way to get the "app_icon_image_url" for these, it would be great. I only used the ones that were in the default set.
+3. I added these by going to the App in my TV and getting the NAME_SPACE and APP_ID. I am not claiming these work on every TV, but they work on my modern Vizio's.
 
