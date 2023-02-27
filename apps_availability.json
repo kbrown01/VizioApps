@@ -1734,6 +1734,18 @@
     }
   },
   {
+    "id": "182",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"127\", \"MESSAGE\": \"https://html5.runtime.tv/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
     "id": "183",
     "chipsets": {
       "*": [
