@@ -1672,5 +1672,17 @@
         }
       ]
     }
+  },
+  {
+    "id": "177",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"170\", \"MESSAGE\": \"https://html5.outdooramerica.com/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
   }
 ]
