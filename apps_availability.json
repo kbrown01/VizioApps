@@ -1841,5 +1841,149 @@
         }
       ]
     }
+  },
+  {
+    "id": "191",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"132\", \"MESSAGE\": \"https://service.play.works/video_portals/html5_hub/index.html?config=..%2Fssundee%2Fconfig.json&platform=vizio&render=canvas\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "192",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"157\", \"MESSAGE\": \"https://html5.kortv.com/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "193",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"141\", \"MESSAGE\": \"https://cdn.vixi.tv/vixi/v4/prod/latest/VZ1/index.html?appid=4000058&rev=r1\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "194",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"152\", \"MESSAGE\": \"https://d2blj17edgm27z.cloudfront.net/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "195",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"171\", \"MESSAGE\": \"https://service.play.works/video_portals/html5_hub/index.html?config=..%2Fplay_works_kids%2Fconfig.json&platform=vizio&render=canvas\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "196",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"122\", \"MESSAGE\": \"https://iptv.fawesome.tv/?iptv=true&siteId=1120&platform_id=1217562\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "197",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"101\", \"MESSAGE\": \"https://h5.smartcinemausa.com/vizio-app/app.html#/home\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "198",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"76\", \"MESSAGE\": \"https://blueprint.matchpoint.tv/comedydynamics/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "199",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"164\", \"MESSAGE\": \"https://vizio.castify.ai/?hash=xhxxamifyo\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "200",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"28\", \"MESSAGE\": \"https://html5.midnightpulp.com/?ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "201",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"44\", \"MESSAGE\": \"https://videos.adventuresportsnetwork.com/tv/vizio\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "202",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"56\", \"MESSAGE\": \"http://apps.tvgam.es/tv_games/vizio_portal/production/portal/index.html\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
   }
 ]
