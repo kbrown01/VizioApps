@@ -1616,5 +1616,108 @@
       "description": "Kevin Added",
       "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
     }
+  },
+  {
+    "id": "171",
+    "name": "AfroLand TV",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 171,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "172",
+    "name": "Sundance Now",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 172,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "173",
+    "name": "Hipstr",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 173,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "174",
+    "name": "Fandor",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 174,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "175",
+    "name": "Gravitas Movies",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 175,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "176",
+    "name": "NovoComedy",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 176,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "177",
+    "name": "Outdoor America",
+    "country": [
+      "*"
+      ],
+    "mobileAppInfo": {
+      "createDate": "2021-03-31T00:00:00.000Z",
+      "featured_sort": 177,
+      "description": "Kevin Added",
+      "app_icon_image_url": "http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7BSid:1034,Iid:900000021,_tid:18%7D&vid=95&width=315&height=315&tid=32"
+    }
+  },
+  {
+    "id": "177",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"170\", \"MESSAGE\": \"https://html5.outdooramerica.com/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
   }
 ]

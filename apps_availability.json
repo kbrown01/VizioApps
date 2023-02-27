@@ -1600,5 +1600,77 @@
         }
       ]
     }
+  },
+  {
+    "id": "171",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"144\", \"MESSAGE\": \"https://html5.afrolandtv.com/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "172",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"143\", \"MESSAGE\": \"https://html5-vizio.amcsvod.io/prod/sn/index.html\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "173",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"153\", \"MESSAGE\": \"https://html5.hipstr.tv/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "174",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"154\", \"MESSAGE\": \"https://blueprint.matchpoint.tv/fandor/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "175",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"108\", \"MESSAGE\": \"https://dmikdirjid6mq.cloudfront.net/\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "176",
+    "chipsets": {
+      "*": [
+        {
+          "app_type_payload": "{\"NAME_SPACE\": 4, \"APP_ID\": \"166\", \"MESSAGE\": \"https://html5.novocomedy.tv/?&ua=viziosmartcast\" }",
+          "firmwareMinimum": null,
+          "firmwareMaximum": null
+        }
+      ]
+    }
   }
 ]
