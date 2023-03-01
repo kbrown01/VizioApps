@@ -14,6 +14,7 @@ APP_PAYLOADS_URL = "http://scfs.vizio.com/appservice/app_availability_prod.json"
 
 Vizio Provided List:
 
+```
 [
   "A&E Crime Central",
   "AMC+",
@@ -167,7 +168,7 @@ Vizio Provided List:
   "iFood.TV",
   "iHeartRadio"
 ]
-
+```
 ## Historical Information
 
 Set of JSON files for modern VIZIO TVs with the APPs for Home Assistant integrations
