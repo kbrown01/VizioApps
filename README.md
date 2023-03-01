@@ -1,4 +1,19 @@
 # VizioApps
+
+## No Longer Needed
+
+I will leave these here and periodincally update them with data but Vizio has now provided new URLs that contain these two files.
+This have the benefit of being from Vizio and they include App logos links as well as descriptions that I did not have.
+These should be used and not mine.
+
+They are:
+
+# DEFAULT_APPS_PATH_PROD
+APP_NAMES_URL = "http://scfs.vizio.com/appservice/vizio_apps_prod.json"
+# DEFAULT_AVAILABILITY_PATH_PROD
+APP_PAYLOADS_URL = "http://scfs.vizio.com/appservice/app_availability_prod.json"
+
+
 Set of JSON files for modern VIZIO TVs with the APPs for Home Assistant integrations
 
 The current set (154 APPs) for a modern Vizio TV. IF you find things that should be added or changed, post!
